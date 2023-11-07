@@ -1,4 +1,4 @@
-##EXERCÍCIO OPENGL - ILUMINAÇÃO
+## EXERCÍCIO OPENGL - ILUMINAÇÃO
 Atividade Avaliativa 2
 Para a cena gráfica desenvolvida nos tópicos anteriores (portal de condomínio com textura), acrescente ao menos uma fonte luminosa. 
 
